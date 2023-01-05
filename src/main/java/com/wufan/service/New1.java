@@ -8,6 +8,9 @@ public class New1 {
 
         ArrayList<String> strings = new ArrayList<>();
         strings.add("hello");
+        if(strings.size() > 0){
+            System.out.println("列表里有数据");
+        }
 
         System.out.println("测试New1");
     }
