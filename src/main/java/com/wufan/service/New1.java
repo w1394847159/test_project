@@ -13,5 +13,8 @@ public class New1 {
         }
 
         System.out.println("测试New12");
+        if(strings.size() > 0){
+            System.out.println("测试New3");
+        }
     }
 }
