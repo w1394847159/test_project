@@ -12,6 +12,6 @@ public class New1 {
             System.out.println("列表里有数据");
         }
 
-        System.out.println("测试New1");
+        System.out.println("测试New12");
     }
 }
